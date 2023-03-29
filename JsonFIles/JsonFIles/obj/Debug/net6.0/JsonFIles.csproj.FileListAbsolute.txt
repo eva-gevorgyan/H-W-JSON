@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\bin\Debug\net6.0\JsonFIles.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\bin\Debug\net6.0\JsonFIles.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\bin\Debug\net6.0\JsonFIles.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\bin\Debug\net6.0\JsonFIles.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\bin\Debug\net6.0\JsonFIles.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\JsonFIles.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\JsonFIles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\JsonFIles.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\JsonFIles.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\JsonFIles.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\JsonFIles.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\refint\JsonFIles.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\JsonFIles.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\JsonFIles.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonFIles\JsonFIles\obj\Debug\net6.0\ref\JsonFIles.dll
